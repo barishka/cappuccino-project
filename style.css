@@ -277,3 +277,110 @@
     letter-spacing: 0.25px;
     color: #372D41;
 }
+
+@media screen and (max-width: 320px) {
+
+    .body {
+        width: 320px;
+    }
+
+    .header {
+        height: 504px;
+    }
+
+    .title {
+        height: 168px;
+        width: 280px;
+    }
+
+    .title__text {
+        height: 168px;
+        width: 170px;
+    }
+
+    .denticare {
+        height: 46px;
+    }
+
+    .cappuccino-news {
+        height: 80px;
+    }
+
+    .issue1 {
+        height: 42px;
+    }
+
+    .title__image {
+        height: 168px;
+        width: 110px;
+    }
+
+    .header__text {
+        width: 280px;
+        height: 336px;
+    }
+
+    .section_1 {
+        height: 564px;
+    }
+
+    .news-section_1 {
+        width: 280px;
+        height: 524px;
+    }
+
+    .label {
+        width: 280px;
+    }
+
+    .label__text {
+        width: 189px;
+    }
+
+    .section_2 {
+        height: 632px;
+    }
+
+    .news-section_2 {
+        width: 280px;
+        height: 592px;
+    }
+
+    .news-section_2 > p {
+        width: 248px;
+    }
+
+    .section_3 {
+        height: 482px;
+    }
+
+    .news-section_3 {
+        width: 280px;
+        height: 442px;
+    }
+
+    .news-section_3 > p {
+        width: 248px;
+    }
+
+    .section_4 {
+        height: 612px;
+    }
+
+    .news-section_4 {
+        width: 280px;
+        height: 572px;
+    }
+
+    .news-section_4 > p {
+        width: 248px;
+    }
+
+    .label320 {
+        height: 60px;
+    }
+
+    .footer__block {
+        width: 320px;
+    }
+}
